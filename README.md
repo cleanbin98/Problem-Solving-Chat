@@ -1,3 +1,12 @@
+# Skills
+  - Language
+      - JavaScript
+      - html
+  - Framework
+      - Nest
+  - Library
+      - Jquery
+      - Socket.io
 # 환경 설정 및 파일 구조
   - 환경 설정
       1. nest로 프로젝트를 생성하고 게이트웨이를 설치한다. 그리고 양방향 통신을 위한 웹소켓 패키지 파일들을 추가로 설치한다. (npm 명령어)
